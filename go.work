@@ -1,0 +1,8 @@
+go 1.27
+
+use (
+chef-service
+customer-service
+delivery-service
+waiter-service
+)
