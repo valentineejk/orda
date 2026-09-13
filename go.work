@@ -1,8 +1,9 @@
-go 1.27
+go 1.27.0
 
 use (
 chef-service
 customer-service
 delivery-service
 waiter-service
+wallet-service
 )
